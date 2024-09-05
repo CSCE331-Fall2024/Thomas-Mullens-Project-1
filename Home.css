@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.head{
+    background-color: black;
+    padding: 10px;
+    
+}
+h1{
+    color: white;
+    font-size: 3rem;
+}
+.tabs{
+    display: inline-flex;
+    font-size: 10px;
+    text-align: center;
+    transition-duration: 0.5s;
+    float: inline-end;
+}
+.btn1{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn1:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn2{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn2:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn3{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn3:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn4{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn4:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn5{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn5:hover{
+    color: maroon;
+    background-color: white;
+}
+
+body{
+    font-size: 1.8rem;
+    background-color: maroon;
+    color: white;
+}
+.section1{
+    display: inline-flex;
+}
+.pitcure{
+    margin: 3rem;
+}
+img{
+    border: 0.5rem, solid, black;
+    border-radius: 50%;
+}
+.introduction{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black;
+
+}
+.section2{
+    display: inline-flex;
+}
+.strength{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black;
+}
+.teams{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black; 
+}

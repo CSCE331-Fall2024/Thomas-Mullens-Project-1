@@ -1,0 +1,125 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: maroon;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #222;
+}
+
+header h1 {
+    margin: 0;
+    color: white;
+}
+
+/* Navigation */
+nav {
+    background-color: #111;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: maroon;
+}
+
+/* Sections */
+section {
+    padding: 20px;
+    border-bottom: 1px solid maroon;
+}
+
+section h2 {
+    color: maroon;
+}
+
+section p {
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: maroon;
+    border-top: 2px solid #222;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+}
+
+/* Button Styles */
+button {
+    background-color: maroon;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #8b0000; /* Darker shade of maroon */
+}
+
+/* Prompt Box Styles */
+#prompts {
+    background-color: #333; /* Dark background for the prompt box */
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+#prompts h2 {
+    color: #ffcccb; /* Light pink color for heading to stand out */
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.prompt-box {
+    border: 2px solid maroon;
+    padding: 15px;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.prompt-box ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.prompt-box li {
+    margin-bottom: 10px;
+}
