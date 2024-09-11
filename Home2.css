@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.head{
+    background-color: maroon;
+}
+h1{
+    color: white;
+    font-size: 3rem;
+}
+.tabs{
+    display: inline-flex;
+    font-size: 10px;
+    text-align: center;
+    transition-duration: 0.5s;
+    float: inline-end;
+    background-color: maroon;
+    width: max-content;
+    padding: 10px;
+    padding-left: 100%;
+}
+.btn1{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn1:hover{
+    color: black;
+    background-color: white;
+}
+.btn2{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn2:hover{
+    color: black;
+    background-color: white;
+}
+.btn3{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn3:hover{
+    color: black;
+    background-color: white;
+}
+.btn4{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn4:hover{
+    color: black;
+    background-color: white;
+}
+.btn5{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn5:hover{
+    color: black;
+    background-color: white;
+}
+.btn6{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn6:hover{
+    color: black;
+    background-color: white;
+}
+.title1{
+    display: none;
+}
+.title2{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background-color: maroon;
+    float: inline-start;
+    padding-bottom: 100%;
+}
+.title3{
+    display: none;
+}
+.title4{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background-color: maroon;
+    float: inline-start;
+    padding-bottom: 100%;
+}
+.title5{
+    display: none;
+}
+.title6{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background-color: maroon;
+    float: inline-start;
+    padding-bottom: 100%;
+}
+.title7{
+    display: none;
+}
+.title8{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background-color: maroon;
+    float: inline-start;
+    padding-bottom: 100%;
+}
+body{
+    font-family: cursive;
+    font-size: 1.8rem;
+    background-color: black;
+    color: white;
+}
+.body{
+    display: inline-flex;
+}
+.subbody1{
+    display: inline-flex;
+}
+.section1{
+    display: block;
+}
+img{
+    width: 25rem; 
+    height: 20rem; 
+    object-fit: cover;
+    margin-bottom: 3rem;
+    border-radius: 40px;
+}
+.introduction1{
+    margin: 3rem;
+}
+.section2{
+    display: block;
+}
+.strength{
+    padding: 3rem;
+    margin: 3rem;
+}
+.teams{
+    padding: 3rem;
+    margin: 3rem;
+}
+.serviceopt{
+    padding: 100px;
+}
+.subbody3{
+    display: inline-flex;
+}
+.section3{
+    display: block;
+}
+.aointerest{
+    padding: 3rem;
+    margin: 3rem;
+    margin-top: 0;
+    border: 5px, solid, black;
+}
+.techskills{
+    bottom: 10rem;
+    position: absolute;
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black;
+}
+.section2box{
+    margin: 3rem;
+
+}
+.section4{
+    font-size: 1.8rem;
+    background-color: maroon;
+    border: 10px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.section4:hover{
+    color: white;
+    background-color: black;
+}
+.subbody4{
+    display: inline-flex;
+}
+.section5{
+    display: block;
+}
+.git{
+    padding: 3rem;
+    margin: 3rem;
+    margin-top: 0;
+}
+.projects{
+    bottom: 10rem;
+    position: absolute;
+    padding: 3rem;
+    margin: 3rem;
+}

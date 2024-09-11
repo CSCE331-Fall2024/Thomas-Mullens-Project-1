@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.head{
+    background-color: black;
+    padding: 10px;
+}
+h1{
+    color: white;
+    font-size: 3rem;
+}
+.tabs{
+    display: inline-flex;
+    font-size: 10px;
+    text-align: center;
+    transition-duration: 0.5s;
+    float: inline-end;
+}
+.btn1{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn1:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn2{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn2:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn3{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn3:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn4{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn4:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn5{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn5:hover{
+    color: maroon;
+    background-color: white;
+}
+.btn6{
+    background-color: maroon;
+    border: 5px, solid, maroon;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn6:hover{
+    color: maroon;
+    background-color: white;
+}
+.body{
+    padding-left: 1%;
+}
+body{
+    font-family: fantasy;
+    font-size: 1.8rem;
+    background-color: maroon;
+    color: white;
+}
+.section1{
+    display: inline-flex;
+}
+img{
+    border: 0.5rem, solid, black;
+    border-radius: 50%;
+    margin: 3rem;
+}
+.introduction{
+    padding: 3rem;
+    margin: 3rem;
+}
+.section2{
+    display: inline-flex;
+}
+.strength{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black;
+}
+.teams{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black; 
+}
+.title2{
+    display: none;
+}
+.title6{
+    display: none;
+}
+.title8{
+    display: none;
+}
+.title4{
+    display: none;
+}
+.section3{
+    display: inline-flex;
+}
+.aointerest{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black;
+}
+.techskills{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black; 
+}
+.section2box{
+    margin: 3rem;
+
+}
+.section4{
+    font-size: 1.8rem;
+    background-color: black;
+    border: 10px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.section4:hover{
+    color: maroon;
+    background-color: white;
+}
+.section5{
+    display: inline-flex;
+}
+
+.projects{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black;
+}
+.git{
+    padding: 3rem;
+    margin: 3rem;
+    border: 5px, solid, black; 
+}
+.body2{
+    padding-left: 2%;
+}

@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.head{
+    background-color: maroon;
+}
+h1{
+    color: white;
+    font-size: 3rem;
+}
+.tabs{
+    display: inline-flex;
+    font-size: 10px;
+    text-align: center;
+    transition-duration: 0.5s;
+    float: inline-end;
+    background-color: maroon;
+    width: max-content;
+    padding: 10px;
+    padding-left: 100%;
+}
+.btn1{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn1:hover{
+    color: black;
+    background-color: white;
+}
+.btn2{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn2:hover{
+    color: black;
+    background-color: white;
+}
+.btn3{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn3:hover{
+    color: black;
+    background-color: white;
+}
+.btn4{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn4:hover{
+    color: black;
+    background-color: white;
+}
+.btn5{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn5:hover{
+    color: black;
+    background-color: white;
+}
+.title1{
+    display: none;
+}
+.title2{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background-color: maroon;
+    float: inline-start;
+    padding-bottom: 100%;
+}
+body{
+    font-size: 1.8rem;
+    background-color: black;
+    color: white;
+    margin-bottom: 100px;
+}
+.serviceopt{
+    padding: 100px;
+}
+.btn6{
+    background-color: black;
+    border: 5px, solid, black;
+    color: white;
+    padding: 5px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn6:hover{
+    color: black;
+    background-color: white;
+}
